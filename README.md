@@ -1,4 +1,4 @@
-﻿# eamil-project
+﻿# email-project
 README for Backend (email-ingestion)
  Backend
 This is the backend for the Email Management System. It handles email storage, retrieval, and deletion using Node.js, Express, and Prisma with SQLite.
